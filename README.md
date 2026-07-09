@@ -61,6 +61,7 @@ Resolves multiple issues at high framerates, designed and optimized for smooth g
 - Inability to perform a jump kick.
 - Excessive sliding on sloped surfaces.
 - Slow-motion charge and timer desynchronization.
+- Degraded AI reactions.
 
 ## Optimized Save Performance
 Dramatically reduces save times by buffering file operations in memory instead of writing directly to disk.  
